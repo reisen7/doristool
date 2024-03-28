@@ -13,6 +13,16 @@ doris删除数据的工具，由于doris无法删除key之外的数据，因此�
 2.  在resource文件夹下面创建application.properties
 3.  在文件里写数据库连接地址
 
+如下所示：
+
+```
+URL=xxx
+USER=xx
+PASSWORD=xxx
+DRIVER=xxx
+```
+
+
 #### 使用说明
 
 1.  输入删除语句需要输入select 语句
