@@ -10,8 +10,8 @@ doris删除数据的工具，由于doris无法删除key之外的数据，因此�
 #### 安装教程
 
 1.  下载maven依赖
-2.  
-3.  
+2.  在resource文件夹下面创建application.properties
+3.  在文件里写数据库连接地址
 
 #### 使用说明
 
